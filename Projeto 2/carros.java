@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class carros {
+public class carros { 
 
     public static void main(String[] args) {
 
